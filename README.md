@@ -14,3 +14,7 @@ This script predicts the closing prices of SPX and TSLA using multiple forecasti
 
 ## Usage:
 Run the script to generate predictions and validation results. The models use historical price data with lag features for training and inference.
+
+# Other programs
+Quantlib demo in  SinkingFund
+HJM Demo
